@@ -1,14 +1,14 @@
-# Nitrous
-A multi-threaded Discord nitro bruteforcer made in Go.
+# 🏎️ Nitrous
+A multi-threaded Discord nitro bruteforcer made in Go. 
 ## Requirements
 * Go (latest)
 
-## Installation
+## 📜 Installation
 ```
 go build ./src/nitrous
 ```
 
-## Usage
+## 🕹️ Usage
 ```
 ./nitrous.exe -threads=500 -type=socks4 -method=random
 ```
