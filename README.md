@@ -1,6 +1,6 @@
 # 🏎️ Nitrous
 A multi-threaded Discord nitro bruteforcer made in Go. 
-## Requirements
+## 🧳 Requirements
 * Go (latest)
 
 ## 📜 Installation
